@@ -1,0 +1,47 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>Landis.Library.InitialCommunity.Biomass</RootNamespace>
+    <AssemblyName>Landis.Library.InitialCommunity.Biomass</AssemblyName>
+    <AssemblyTitle>Landis.Library.InitialCommunity.Biomass</AssemblyTitle>
+    <AssemblyCompany>LANDIS-II Foundation</AssemblyCompany>
+    <AssemblyProduct>Landis.Library.InitialCommunity.Biomass</AssemblyProduct>
+    <AssemblyCopyright>LANDIS-II Foundation</AssemblyCopyright>        
+    <AssemblyDescription>Initial Communities Library for LANDIS-II</AssemblyDescription>
+    <AssemblyVersion>1.1</AssemblyVersion>
+    <Version>1.1</Version>
+    <FileVersion>1.1</FileVersion>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <RepositoryUrl>https://github.com/LANDIS-II-Foundation/Library-Initial-Community</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageLicenseUrl>https://github.com/LANDIS-II-Foundation/Library-Initial-Community/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>http://www.landis-ii.org</PackageProjectUrl>
+    <NeutralLanguage>English</NeutralLanguage>
+    <Authors>LANDIS-II Foundation</Authors>
+    <Product>InitialCommunity Library</Product>
+    <Copyright>LANDIS-II Foundation</Copyright>
+    <PackageTags>LANDIS-II;Landis;Library;InitialCommunity</PackageTags>
+    <Description>InitialCommunity Library for LANDIS-II</Description>
+    <PackageReleaseNotes>.NET Standard 2.0 update.</PackageReleaseNotes>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Landis.Core" Version="2.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Landis.Library.AgeOnlyCohorts-v3">
+      <HintPath>lib\Landis.Library.AgeOnlyCohorts-v3.dll</HintPath>
+    </Reference>
+    <Reference Include="Landis.Library.BiomassCohorts-v3">
+      <HintPath>lib\Landis.Library.BiomassCohorts-v3.dll</HintPath>
+    </Reference>
+    <Reference Include="Landis.Library.Cohorts-v2">
+      <HintPath>lib\Landis.Library.Cohorts-v2.dll</HintPath>
+    </Reference>
+    <Reference Include="Landis.Library.LeafBiomassCohorts-v2">
+      <HintPath>lib\Landis.Library.LeafBiomassCohorts-v2.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  
+</Project>
