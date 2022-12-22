@@ -1,10 +1,10 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <RootNamespace>Landis.Library.InitialCommunity.Biomass</RootNamespace>
-    <AssemblyName>Landis.Library.InitialCommunity.Biomass</AssemblyName>
-    <AssemblyTitle>Landis.Library.InitialCommunity.Biomass</AssemblyTitle>
+    <RootNamespace>Landis.Library.InitialCommunity.LeafBiomass</RootNamespace>
+    <AssemblyName>Landis.Library.InitialCommunity.LeafBiomass</AssemblyName>
+    <AssemblyTitle>Landis.Library.InitialCommunity.LeafBiomass</AssemblyTitle>
     <AssemblyCompany>LANDIS-II Foundation</AssemblyCompany>
-    <AssemblyProduct>Landis.Library.InitialCommunity.Biomass</AssemblyProduct>
+    <AssemblyProduct>Landis.Library.InitialCommunity.LeafBiomass</AssemblyProduct>
     <AssemblyCopyright>LANDIS-II Foundation</AssemblyCopyright>        
     <AssemblyDescription>Initial Communities Library for LANDIS-II</AssemblyDescription>
     <AssemblyVersion>1.1</AssemblyVersion>
