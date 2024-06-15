@@ -55,3 +55,8 @@ obj/Debug/netstandard2.0/.NETStandard,Version=v2.0.AssemblyAttributes.cs
 obj/Debug/netstandard2.0/initial-community.csproj.AssemblyReference.cache
 obj/Debug/netstandard2.0/initial-community.GeneratedMSBuildEditorConfig.editorconfig
 obj/project.nuget.cache
+.vs/initial-community/DesignTimeBuild/.dtbcache.v2
+.vs/initial-community/v17/.futdcache.v2
+.vs/initial-community/v17/.suo
+.vs/ProjectEvaluation/initial-community.metadata.v6.1
+.vs/ProjectEvaluation/initial-community.projects.v6.1
